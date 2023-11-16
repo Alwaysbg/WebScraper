@@ -1,4 +1,4 @@
 # WebScraper
 Web scraping with Jsoup.
 
-This is my first commit message.
+We scrape data from various websites such as CyclesUk Evans and teso to retrieve bits of data.
