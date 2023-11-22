@@ -26,7 +26,7 @@ public class Examples {
             //jSoup Exercises
             exercise1();
             exercise2();
-            exercise3();
+         
         }
         catch(Exception ex){
             System.out.println("Exercise Exception: " + ex.getMessage());
